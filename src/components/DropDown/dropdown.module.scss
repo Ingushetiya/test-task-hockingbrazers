@@ -1,0 +1,16 @@
+.item[data-selected],
+.item[data-selected]:hover {
+  background: #7a5cfa;
+}
+.item:hover {
+  background: #7a5cfa;
+  color: #fff;
+}
+
+.input:hover {
+  border-color: #7a5cfa;
+}
+
+.input:focus {
+  border-color: #7a5cfa;
+}
